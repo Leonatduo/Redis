@@ -1,6 +1,6 @@
 # Redis
 ## 概述
-Redis (Remote Dictionary Server) 是一个开源的内存数据结构存储，用作数据库、缓存和消息代理。支持多种数据结构，包括字符串(Strings)、哈希(Hashes)、列表(Lists)、集合(Sets)等。
+Redis（Remote Dictionary Server）は、オープンソースのインメモリデータ構造ストアで、データベース、キャッシュ、メッセージブローカーとして使用されます。文字列（Strings）、ハッシュ（Hashes）、リスト（Lists）、セット（Sets）など、さまざまなデータ構造をサポートしています。
 
 ## 主要特性
 ⚡ インメモリストレージで非常に高速
